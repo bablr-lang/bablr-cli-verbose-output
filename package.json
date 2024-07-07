@@ -23,7 +23,7 @@
     "@bablr/agast-helpers": "0.1.6",
     "@bablr/agast-vm-helpers": "0.1.5",
     "@bablr/helpers": "0.16.0",
-    "@bablr/language-bablr-vm-instruction": "0.2.0",
+    "@bablr/language-bablr-vm-instruction": "0.2.1",
     "@bablr/language-blank-space": "0.1.2",
     "@bablr/language-cstml": "0.3.0"
   },
